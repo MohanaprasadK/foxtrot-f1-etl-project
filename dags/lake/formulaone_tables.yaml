@@ -1,0 +1,13 @@
+tables:
+  - lake_races
+  - lake_drivers
+  - lake_constructors
+  - lake_circuits
+  - lake_results
+  - lake_qualifying
+  - lake_sprint_results
+  - lake_pit_stops
+  - lake_lap_times
+  - lake_driver_standings
+  - lake_constructor_standings
+  - lake_seasons
